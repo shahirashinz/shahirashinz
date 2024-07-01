@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @shahirashinz
+- 👋 Hi
 - 👀 I’m interested in data science, AI/ML, Document AI, Computer Vision and Pattern Recognition 
-- 🌱 I’m currently learning AI/ML
+- 🌱 
 - 💞️ 
 - 📫 
 
