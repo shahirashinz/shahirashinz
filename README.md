@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @shahirashinz
-- 👀 I’m interested in computer vision and pattern recognition
-- 🌱 I’m currently learning ai 
-- 💞️ I’m looking to collaborate on text recognition
-- 📫 How to reach me kcs2cvpr@gmail.com
+- 👀 I’m interested in data science, AI/ML, Document AI, Computer Vision and Pattern Recognition 
+- 🌱 I’m currently learning AI/ML
+- 💞️ 
+- 📫 
 
 <!---
 shahirashinz/shahirashinz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
