@@ -1,4 +1,4 @@
-- 👋 'm Shahira Kc (aka Shahira Husunu Kc) 
+- 👋 I'm Shahira Kc (Shahira Husunu) 
 - 👀 I'm interested in AI in healthcare,  Document AI
 - 🌱 **Postdoctoral Researcher | Multimodal AI | Medical VLMs | AI for Healthcare** 
 I am a Postdoctoral Researcher in Computer Science at **IIT Hyderabad**
